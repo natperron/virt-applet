@@ -1,0 +1,12 @@
+[package]
+name = "virt-applet"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nathan Perron"]
+
+[dependencies]
+libappindicator = "0.7.1"
+gtk = "0.15"
+glib = "0.15"
+getopts = "0.2.21"
+virt = "0.2.11"
